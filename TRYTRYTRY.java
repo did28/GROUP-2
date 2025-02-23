@@ -3,7 +3,7 @@ import java.util.*;
 public class TRYTRYTRY {
     static Scanner scanner = new Scanner(System.in);
 
-    // Predefined destinations and base prices
+    // Predefined destinations and base prices adrid
     static final Map<String, String> destinations = Map.ofEntries(
             Map.entry("MNL", "Manila"), Map.entry("CEB", "Cebu"), Map.entry("DVO", "Davao"),
             Map.entry("ILO", "Iloilo"), Map.entry("KLO", "Kalibo"), Map.entry("BCD", "Bacolod"),
